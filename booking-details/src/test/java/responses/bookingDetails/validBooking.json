@@ -1,0 +1,16 @@
+[
+  {
+    "idBooking": "ESP-ESP-0.23080392904239988",
+    "idUser": "popo@gmail.com-0.46884178669816645",
+    "origin": "ESP",
+    "destination": "ESP",
+    "date": "01-01-21"
+  },
+  {
+    "idBooking": "ESP-ESP-0.9677786940673409",
+    "idUser": "popo@gmail.com-0.46884178669816645",
+    "origin": "ESP",
+    "destination": "ESP",
+    "date": "01-01-21"
+  }
+]

@@ -1,0 +1,11 @@
+#Congiguration files
+.idea
+.vscode/
+.project
+.classpath
+.settings/
+*/.settings/
+
+#Reports
+*/target/
+target/
